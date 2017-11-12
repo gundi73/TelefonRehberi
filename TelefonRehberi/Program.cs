@@ -10,6 +10,8 @@ namespace TelefonRehberi
     {
         static void Main(string[] args)
         {
+
+            Console.Write("Merhaba dunya");
         }
     }
 }
