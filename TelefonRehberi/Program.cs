@@ -12,6 +12,7 @@ namespace TelefonRehberi
         {
 
             Console.Write("Merhaba dunya");
+            Console.Write("Kodlama yapıldı");
         }
     }
 }
